@@ -1,51 +1,47 @@
 # TypeScript Crash Course Progress
 
-- [ ] Introduction & Course Roadmap
-- [ ] Why Learn TypeScript?
-- [ ] JavaScript vs. TypeScript Diagram
-- [ ] Writing Your First TypeScript Code
-- [ ] How TS Works: Compiler & AST
-- [ ] The Parser & Abstract Syntax Tree
-- [ ] The Binder & Symbol Tables
-- [ ] The Type Checker
-- [ ] The Emitter (Generating JS)
-- [ ] Project Setup & Installation
-- [ ] Generating tsconfig.json
-- [ ] Running TypeScript (tsc)
-- [ ] Type Inference vs. Annotation
-- [ ] Basic Types (String, Number, Boolean)
-- [ ] Union Types
-- [ ] The Problem with `any`
-- [ ] Type Narrowing & Guards
-- [ ] The `unknown` Type
-- [ ] Exhaustive Checks
-- [ ] Custom Type Predicates (`is`)
-- [ ] Discriminated Unions
-- [ ] Type Assertion (`as` keyword)
-
-  DONE TILL HERE - 
-
-  
-- [ ] `unknown` vs `any` Deep Dive
-- [ ] Handling Errors in Try/Catch
-- [ ] The `never` Type
-- [ ] Type Aliases (`type`)
-- [ ] Interfaces vs. Types
-- [ ] Intersection Types
-- [ ] Optional & Readonly Properties
-- [ ] Objects in TypeScript
-- [ ] Duck Typing / Structural Typing
-- [ ] `Partial<T>` Utility Type
-- [ ] `Required<T>` Utility Type
-- [ ] `Pick<T>` Utility Type
-- [ ] `Omit<T>` Utility Type
-- [ ] Functions Basics
-- [ ] `void` Return Type
-- [ ] Optional Parameters in Functions
-- [ ] Arrays Basics
-- [ ] Readonly Arrays
-- [ ] Tuples
-- [ ] Enums
+- [ DONE ] Introduction & Course Roadmap
+- [ DONE ] Why Learn TypeScript?
+- [ DONE ] JavaScript vs. TypeScript Diagram
+- [ DONE ] Writing Your First TypeScript Code
+- [ DONE ] How TS Works: Compiler & AST
+- [ DONE ] The Parser & Abstract Syntax Tree
+- [ DONE ] The Binder & Symbol Tables
+- [ DONE ] The Type Checker
+- [ DONE ] The Emitter (Generating JS)
+- [ DONE ] Project Setup & Installation
+- [ DONE ] Generating tsconfig.json
+- [ DONE ] Running TypeScript (tsc)
+- [ DONE ] Type Inference vs. Annotation
+- [ DONE ] Basic Types (String, Number, Boolean)
+- [ DONE ] Union Types
+- [ DONE ] The Problem with `any`
+- [ DONE ] Type Narrowing & Guards
+- [ DONE ] The `unknown` Type
+- [ DONE ] Exhaustive Checks
+- [ DONE ] Custom Type Predicates (`is`)
+- [ DONE ] Discriminated Unions
+- [ DONE ] Type Assertion (`as` keyword)
+- [ DONE ] `unknown` vs `any` Deep Dive
+- [ DONE ] Handling Errors in Try/Catch
+- [ DONE ] The `never` Type
+- [ DONE ] Type Aliases (`type`)
+- [ DONE ] Interfaces vs. Types
+- [ DONE ] Intersection Types
+- [ DONE ] Optional & Readonly Properties
+- [ DONE ] Objects in TypeScript
+- [ DONE ] Duck Typing / Structural Typing
+- [ DONE ] `Partial<T>` Utility Type
+- [ DONE ] `Required<T>` Utility Type
+- [ DONE ] `Pick<T>` Utility Type
+- [ DONE ] `Omit<T>` Utility Type
+- [ DONE ] Functions Basics
+- [ DONE ] `void` Return Type
+- [ DONE ] Optional Parameters in Functions
+- [ DONE ] Arrays Basics
+- [ DONE ] Readonly Arrays
+- [ DONE ] Tuples
+- [ DONE ] Enums
 - [ ] Classes Introduction
 - [ ] Constructors
 - [ ] Access Modifiers (`public`, `private`)
