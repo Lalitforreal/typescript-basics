@@ -29,3 +29,43 @@ class Stripe implements PaymentGateway{
     }
 }
 //this is where interface is useful
+
+//more on them 
+
+interface Chai{
+    readonly flavour : string,
+    sugar? : number
+}
+
+const masala : Chai = {
+    flavour : "cutting",
+    sugar : 2
+}
+
+// /interface defining func
+
+interface yeah{
+    (price : number): string
+}
+
+const applyDisc : yeah = (num)=>{
+    return "good only "
+}
+
+//whatever you're making it should define the interface properly 
+
+interface tea {
+    start(price : number) : number,
+    stop(): number
+}
+
+const checkInterface : tea = {
+    start(price){
+        return price*2
+    },
+    stop(){
+        return -1;
+    }
+}
+
+console.log(checkInterface.start(2));
