@@ -42,20 +42,20 @@
 - [ DONE ] Readonly Arrays
 - [ DONE ] Tuples
 - [ DONE ] Enums
-- [ ] Classes Introduction
-- [ ] Constructors
-- [ ] Access Modifiers (`public`, `private`)
-- [ ] `protected` Modifier
-- [ ] Getters and Setters
-- [ ] Static Members
-- [ ] Abstract Classes
-- [ ] Interfaces & Generics Intro
-- [ ] Interfaces for Functions
-- [ ] Index Signatures
-- [ ] Interface Merging
-- [ ] Generics Basics (`<T>`)
-- [ ] Multiple Generic Types
-- [ ] Generic Interfaces
+- [ DONE ] Classes Introduction
+- [ DONE ] Constructors
+- [ DONE ] Access Modifiers (`public`, `private`)
+- [ DONE ] `protected` Modifier
+- [ DONE ] Getters and Setters
+- [ DONE ] Static Members
+- [ DONE ] Abstract Classes
+- [ DONE ] Interfaces & Generics Intro
+- [ DONE ] Interfaces for Functions
+- [ DONE ] Index Signatures
+- [ DONE ] Interface Merging
+- [ DONE ] Generics Basics (`<T>`)
+- [ DONE ] Multiple Generic Types
+- [ DONE ] Generic Interfaces
 - [ ] Type Declarations (`.d.ts`)
 - [ ] Installing Libraries & Types (Axios)
 - [ ] Fetching Data with Types
