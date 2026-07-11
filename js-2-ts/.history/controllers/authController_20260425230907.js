@@ -1,0 +1,7 @@
+const express = require("express");
+
+function registerUser(req,res){
+
+}
+
+module.exports(registerUser);

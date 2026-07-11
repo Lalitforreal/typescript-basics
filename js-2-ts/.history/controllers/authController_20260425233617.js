@@ -1,0 +1,19 @@
+const express = require("express");
+const userModel = require("../models/user-model");
+const bcrypt = require("bcrypt");
+
+function registerUser(req,res){
+    try{
+        let {email , password} = req.body;
+        const user = userModel.findOne({email : email});
+        if(user){
+            res.redirect("/login");
+        }
+        bcrypt.genSalt()
+        
+    }catch(err){
+
+    }
+}
+
+module.exports(registerUser);
