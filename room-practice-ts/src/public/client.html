@@ -22,8 +22,8 @@
         })
 
         socket.emit("room-join", roomId);
-        socket.on("welcome", (msg)=>{
-            addLi(msg);
+        socket.on("welcome", ({msg,from})=>{
+            addLi(msg.msg );
         })
         socket.on("send-to-room", (msg)=>{
             addLi(`by ${msg.from}: ` + msg.msg);
