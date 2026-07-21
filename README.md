@@ -63,5 +63,41 @@
 - [ DONE ] `import type` Syntax
 
 
+Section 2: PostgreSQL & SQL Database Management (Total Duration: 04:07:00)
 
-BASIC CRUD API hands on ts - DONE.
+[DONE JUL-21] - PostgreSQL introduction. 
+[DONE JUL-21] - Installation, setup, and database basics
+[DONE JUL-21] - Creating a new database
+[DONE JUL-21] - Creating a schema
+[DONE JUL-21] - Creating a table
+[DONE JUL-21] - SQL data types
+[DONE JUL-21] - Other SQL data types
+[] - NULL, empty string, and zero values
+[] - Constraints
+[] - Primary key concept
+[] - SQL concepts base file setup
+[] - Insert a single row
+[] - Insert multiple rows
+[] - AND, OR, and NOT filters
+[] - LIKE pattern matching
+[] - IN, NOT IN, and BETWEEN
+[] - NULL and NOT NULL
+[] - ORDER BY
+[] - LIMIT, OFFSET, and pagination
+[] - Update a single row
+[] - Update multiple rows
+[] - Delete rows
+[] - RETURNING after INSERT, UPDATE, and DELETE
+[] - Relationships and seeding tables/data
+[] - Foreign keys
+[] - One-to-many relationships
+[] - INNER JOIN
+[] - LEFT JOIN
+[] - Many-to-many relationships
+[] - Table aliases
+[] - Aggregate functions
+[] - GROUP BY and HAVING
+[] - COUNT DISTINCT
+[] - Subqueries
+[] - Indexes: concept only
+[] - Transactions
