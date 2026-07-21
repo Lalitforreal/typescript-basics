@@ -23,7 +23,7 @@ async function registerUser(req : Request,res : Response){
     if(user){
         return res.redirect("/login");
     }
-    const newUser : HydratedDocument<IUser> | null = await userModel.create({
+    const newUser : HydratedDocument<IUser> = await userModel.create({
         name : body.name,
         email :body.email,
         password : hash,
